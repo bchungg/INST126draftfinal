@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Naasii: A Coyote & Crow Dice Game (Python Project)
 
 ## Overview
@@ -146,3 +147,7 @@ You can install these with:
 
 ```bash
 pip install numpy pandas matplotlib seaborn
+=======
+# Naasii-INST126Final-
+This project is a Python version of the Naasii dice game. Players roll, score, and compete using turn-based gameplay. A separate script simulates 100k rolls using numpy and pandas to analyze probabilities and creates visual charts with matplotlib and seaborn.
+>>>>>>> df100e5f3961419c977435527bd2629fb9b33c3e
