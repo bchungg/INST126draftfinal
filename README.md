@@ -19,9 +19,6 @@ Players also earn something called Nizi throughout the game. They get one Nizi w
 
 This version of the game is intentionally simplified so it is easier to code. It does not include the optional Nizi abilities from the physical game. It does not track the printed score sheet, so players can score the same type as many times as they want. It also does not limit the number of dice in the box. Instead, any deleted white die simply becomes an extra die for the next player. White twelves are always used automatically to block black twelves without asking the player.
 
-## analysis.py (Optional)
-
-The file `analysis.py` was created only to show that I can use modules like numpy, pandas, matplotlib, seaborn, and time. It simulates a bunch of Naasii dice rolls, times how fast different methods run, and makes a couple of simple graphs. It is completely separate from the game and is just there to show the “advanced topics” part of the assignment.
 
 ## How to Run
 
