@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Naasii: A Coyote & Crow Dice Game (Python Project)
 
 ## Overview
@@ -10,7 +9,7 @@ uses `numpy`, `pandas`, `matplotlib`, and `seaborn` to study dice rolls.
 The code was written as a class project to practice Python programming,
 patterns, and tools. It is not an official digital version of the game.
 
----
+
 
 ## What the Program Does
 
@@ -74,7 +73,7 @@ Game end:
   - computes each player’s **final score**,
   - announces the winner (or a tie).
 
----
+
 
 ## Simplifications and Limitations
 
@@ -130,7 +129,7 @@ What it does:
 This script is separate from the main game, but it is related to Naasii
 and is meant to demonstrate “Advanced Topics” tools for the course.
 
----
+
 
 ## How to Run the Program
 
@@ -147,7 +146,3 @@ You can install these with:
 
 ```bash
 pip install numpy pandas matplotlib seaborn
-=======
-# Naasii-INST126Final-
-This project is a Python version of the Naasii dice game. Players roll, score, and compete using turn-based gameplay. A separate script simulates 100k rolls using numpy and pandas to analyze probabilities and creates visual charts with matplotlib and seaborn.
->>>>>>> df100e5f3961419c977435527bd2629fb9b33c3e
